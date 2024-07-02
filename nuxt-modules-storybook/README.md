@@ -1,5 +1,7 @@
 ![Nuxt Storybook](https://github.com/nuxt-modules/storybook/assets/904724/0396b16c-be9b-4b0d-83b5-5e35dd8298df)
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/hirotaka/mre/tree/main/nuxt-modules-storybook)
+
 # Nuxt Storybook
 
 Integrate [Storybook](http://storybook.js.org) into your [Nuxt](https://nuxt.com) application.
@@ -27,7 +29,7 @@ Then run `pnpm dev` to start your Nuxt server.
 
 ## Demo
 
-https://github.com/storybook-vue/nuxt-storybook-module-demo
+<https://github.com/storybook-vue/nuxt-storybook-module-demo>
 
 ## Features
 
@@ -59,9 +61,9 @@ Nuxt 2 is supported with Storybook v6, you can check legacy code on the v4 branc
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and modify it according to your needs.
 
-## Contacts :
+## Contacts
 
-🔖 Mail: javachakir@gmail.com
+🔖 Mail: <javachakir@gmail.com>
 
 💬 Discord: ChakAs3
 

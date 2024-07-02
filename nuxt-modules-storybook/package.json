@@ -92,5 +92,8 @@
   "prettier": {
     "semi": false,
     "singleQuote": true
+  },
+  "stackblitz": {
+    "startCommand": "pnpm install && pnpm dev:prepare && pnpm dev"
   }
 }
