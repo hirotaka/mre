@@ -1,0 +1,23 @@
+node_modules
+dist
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Storybook build artifacts
+build-storybook.log
+storybook-static
+
+# Nuxt build artificats
+.nuxt
+
+# Test artifacts
+coverage
+tsconfig.vitest-temp.json
